@@ -25,7 +25,7 @@ console.log(new1.next())
 
 yeild Example
 
-```function *createFlow() {
+function *createFlow() {
   yield 4;
     yield 5;
       yield 6;  
